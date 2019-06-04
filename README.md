@@ -3,7 +3,9 @@
 ### Authors: [Andrea Bennati](https://github.com/bennaa) & [Alessio Della Libera](https://github.com/dellalibera)
 This repository contains our final project for Robotic Course.
 
-The goal of this project is to use the Thymio robot to predict in which place it is.
+The goal of this project is to use the [Thymio](https://github.com/jeguzzi/mighty-thymio) robot to predict in which place it is.
+
+Python Version: 2.7
 
 The libray used are:
 * pytorch v1.1
